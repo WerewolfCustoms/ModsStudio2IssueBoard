@@ -7,7 +7,7 @@
 
 ### Contents:
 * [How to submit a bug](https://github.com/WerewolfCustoms/ModsStudio2IssueBoard/wiki/How-to-submit-a-bug)
-* How to submit a feature request
+* [How to submit a feature request](https://github.com/WerewolfCustoms/ModsStudio2IssueBoard/wiki/How-to-submit-a-feature-request)
 * Getting access to Mods Studio 2 source code
 
 ### Links:
