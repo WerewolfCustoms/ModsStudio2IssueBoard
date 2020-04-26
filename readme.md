@@ -11,5 +11,5 @@
 * Getting access to Mods Studio 2 source code
 
 ### Links:
-www.mods.studio
-www.roadside.studio
+* www.mods.studio
+* www.roadside.studio
